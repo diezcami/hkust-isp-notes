@@ -42,8 +42,8 @@
   * Was having an affair with somebody
   * The newspaper published an anonymous article about him, though it wasn't effective as social media had already spread information about him
 * The more you want to suppress the information, the more popular it becomes.
-  * There's no point in suppressing what you want to hide due to the nature of social media 
-  * The leveling in the spread of information is even -people power the supply of information as opposed to news companies
+  * There's no point in suppressing what you want to hide due to the nature of social media.
+  * The leveling in the spread of information is even -people power the supply of information as opposed to news companies.
 
 ## Levelling Effect
 * Produces a more open and non-hierarchical society
@@ -51,11 +51,23 @@
 ## Web 2.0
 * **Dot Com Crash**
  * Interesting companies (eg. Google, Amazon) emerged after the crash
-* We are in an era with a lot of available services that allows users to collaborate and share information
-* Web 1.0 was targeted towards researchers and people who wanted to display their information, while Web 2.0 is targeted towards the general public sharing what they find interesting (eg. Cute Cat Theory)
-
-
-
+* We are in an era with a lot of available services that allows users to collaborate and share information.
+* Web 1.0 was targeted towards researchers and people who wanted to display their information, while Web 2.0 is targeted towards the general public sharing what they find interesting (eg. Cute Cat Theory).
+* **Synonyms**
+  * The Participatory Web
+  * The Amateurization of the Web
+  * The Social Web
+* **Foundation Attributes**
+  * User Contributed Value
+  * The Long Tail
+  * Network Effect
+* **Principles (Adaptive Path)**
+  * Remixability - Experiences are created and tailored to user needs (eg. Google Maps)
+    * OpenRice only showed restaurants before, now they also provide locations via Google Maps
+  * Co-creation - Users participate in the creation and delivery of a service (eg. Wikipedia)
+  * Emergent Systems - Cumulative actions at the lowest levels of the system drive the form and value of the overall system (eg. Wikipedia)
+    * Users define behaviour of the service (Bottom-up System)
+  * Decentralization - Users experience services on their terms, and not those of a centralized authority
 
 
 
