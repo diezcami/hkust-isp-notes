@@ -1,7 +1,6 @@
 # Lecture 1 (Web 2.0)
 
 ## Key Terms
-
 * The Streisand Effect
 * Levelling Effect
 * Internet as a Platform
@@ -25,11 +24,11 @@
 * **Offshoring**:
   * Moving the manufacturing operations outside the country (*eg. Made in China*)
 * **Supply Chaining**:
-  * 
+  * System of organizations involved in moving several products or services from product to customer.
 * **Insourcing**:
-  * Opposite of Outsourcing
+  * Opposite of Outsourcing; Performing tasks internally as opposed to externally
 * **In-forming**:
-  * People are more informed now 
+  * People are more informed given the advent of the internet 
 * **Steroids**:
   * Technological Advancement: Internet, Cloud Computing, Hardware
   * Developed to make technology easier for the public to access.
@@ -69,5 +68,66 @@
     * Users define behaviour of the service (Bottom-up System)
   * Decentralization - Users experience services on their terms, and not those of a centralized authority
 
+## Web 2.0 is..
+* **Rich "Non-weblike" Environment**: Web Amateurization, feels like you're using applications directly from your desktop
+* **Viral Marketing and Permission Based Activity**: Viral, from the word Virus - spreading a message rapidly.
+* **Collaboration**: People working together collectively, open source software, etc.
+* **Radical Decentralisation**: Eliminating the centralised hierarchy
+  * eg. BitTorrent: Users do both uploading and downloading
+* **Mashups**: Remixability (eg. using Google Maps with other services)
+* **User Generated Content**: 
+* **Creative Commons**: A license that allows collaborations and sharing
 
+## Web 2.0 Meme Map (Mentioned Points)
+* An attitude, not a technology
+* **The Perpetual Beta (Non-final software open to public)**: There's no final version of the Web
+* Emergent: User behaviour is not predetermined
+* **Rich User Experience**: Tied with non-weblike environment
+* **PageRank**: Algorithm used in search engines, reviews and reputations (rankings in general)
+* **Customer self-service enabling the long tail**: eg. Google Adsense
+* **Radical Trust**: eg. Wikipedia
+* **Core Competencies**
+  * The Web as a Platform
+  * Services, not packaged software (eg. Gmail, Facebook, Wechat etc are services, not software)
+  * Cost Effective Scalability
+  * Remixable Data Source and Data Transformations
+  * Harnessing Collective Intelligence 
+
+## Web 2.0 Features
+* RSS Feeds
+* Social Bookmarking (Tagging, Categorizing)
+* Rating and Recommendations
+* Blogging
+* Rich User Interfaces (AJAX): Script Language to enhance services (eg. Online Shopping)
+
+## Summing Up
+* Definition of **Open**:
+  * Accessibility/Public
+  * Free
+  * No Boundary; Crossing Borders
+  * Editable
+* **Importance of Openness**
+  * Software (Open Source Software)
+  * Open Content (Blogs, Wikis Creative Common)
+  * Open Data (Mashups)
+  * Open Knowledge (OpenCourseWare, Digital Library)
+* **Importance of Users**
+
+## Bad vs Good vs Gray Area
+* **Lost Cellphone**
+  * Punishment was too much and doesn't fit the crime (modern equivalent of a *lynch mob*)
+  * Internet made it easy for a normal man to destroy the reputation of a complete stranger
+* **Lost Camera**
+* **New Delhi Traffic**
+
+## Wikinomics
+* **Principles**
+  * **Openness**: Transparency, Freedom, Flexibility
+  * **Peering**: Horizontal, not hierarchical; Egalitarianism
+  * **Sharing**: Share your own experiences (eg. posting photos, etc)
+  * **Acting Globally**: Business aspect
+* **Ideagoras**: eBay for Ideas
+* **Prosumers**: Users are both Producers and Consumers (as opposed to consumers in Web 1.0)
+* **The New Alexandrias**: Place in Egypt: most comprehensive library in the world burnt down by Romans
+* **Platforms for Participation**
 
