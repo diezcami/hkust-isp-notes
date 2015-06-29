@@ -44,7 +44,7 @@
   * There's no point in suppressing what you want to hide due to the nature of social media.
   * The leveling in the spread of information is even -people power the supply of information as opposed to news companies.
 
-## Levelling Effect
+## Leveling Effect
 * Produces a more open and non-hierarchical society
 
 ## Web 2.0
@@ -71,17 +71,18 @@
 ## Web 2.0 is..
 * **Rich "Non-weblike" Environment**: Web Amateurization, feels like you're using applications directly from your desktop
 * **Viral Marketing and Permission Based Activity**: Viral, from the word Virus - spreading a message rapidly.
-* **Collaboration**: People working together collectively, open source software, etc.
+* **Collaboration**: People working together collectively, open source software, etc. 
 * **Radical Decentralisation**: Eliminating the centralised hierarchy
   * eg. BitTorrent: Users do both uploading and downloading
-* **Mashups**: Remixability (eg. using Google Maps with other services)
+* **Mashups**: Remixability (eg. using Google Maps with other services), mix of functionality and data
 * **User Generated Content**: 
-* **Creative Commons**: A license that allows collaborations and sharing
+* **Creative Commons**: A license that allows collaborations and sharing.
 
 ## Web 2.0 Meme Map (Mentioned Points)
 * An attitude, not a technology
 * **The Perpetual Beta (Non-final software open to public)**: There's no final version of the Web
-* Emergent: User behaviour is not predetermined
+* **Emergent**: User behaviour is not predetermined
+* **Platform**: Applications are run on the web, not the browser
 * **Rich User Experience**: Tied with non-weblike environment
 * **PageRank**: Algorithm used in search engines, reviews and reputations (rankings in general)
 * **Customer self-service enabling the long tail**: eg. Google Adsense
@@ -91,7 +92,9 @@
   * Services, not packaged software (eg. Gmail, Facebook, Wechat etc are services, not software)
   * Cost Effective Scalability
   * Remixable Data Source and Data Transformations
-  * Harnessing Collective Intelligence 
+  * Harnessing Collective Intelligence (Making use of it)
+    * Collective: Group of People
+    * Intelligence: Rationality, Knowledge, Solve Problems, Adoptable
 
 ## Web 2.0 Features
 * RSS Feeds
@@ -119,15 +122,62 @@
   * Internet made it easy for a normal man to destroy the reputation of a complete stranger
 * **Lost Camera**
 * **New Delhi Traffic**
+  * It's possible to create a situation that's not *authentic*, or to intentionally incriminate people
+
+
 
 ## Wikinomics
+* Freedom, Transparency, Accessibility, Leveling
 * **Principles**
   * **Openness**: Transparency, Freedom, Flexibility
-  * **Peering**: Horizontal, not hierarchical; Egalitarianism
+  * **Peering**: Horizontal, not hierarchical; Egalitarianism. Users themselves are providing the information.
   * **Sharing**: Share your own experiences (eg. posting photos, etc)
   * **Acting Globally**: Business aspect
-* **Ideagoras**: eBay for Ideas
+* **Ideagoras**: A Marketplace for Ideas
 * **Prosumers**: Users are both Producers and Consumers (as opposed to consumers in Web 1.0)
-* **The New Alexandrias**: Place in Egypt: most comprehensive library in the world burnt down by Romans
+* **The New Alexandrias**: Place in Egypt: most comprehensive *library* in the world burnt down by Romans
 * **Platforms for Participation**
 
+## Critiques
+* **Jaron Lanier**
+  * Digital Maoism: Diminish uniqueness of individual
+* **Andrew Keen**
+  * **The Cult of Amateur**
+    * The distinction between expert and amateur is obscured, and only the loudest and extreme dominate the digital world. 
+    * Web makes people a "jack of all trades, good at none"; Mass Mediocrity
+  * **Digital Vertigo**: Today's online social revolution is dividing, diminishing and disorientating us
+    * The more "connected" we become through social media, the more alone and alienated we become
+    * Age of Exhibitionism: Posting everything about your life on social media
+* **Evgeny Morozov**
+  * Arms Raise: Citizen vs State
+    * Government uses the internet to suppresses free speech, censors information and distracts populations with digital entertainment.
+      * *Internet Commentators: Citizens who write on the web and agree with the government's ideas*
+      * Censorship can be blocking or guiding (directing people into believing an idea)
+    * Citizens use the internet for organization, networking, and knowing suppressed ideas&information
+    * Government worries about information coming from within (citizens) as opposed to ideas from abroad
+      * *Decentralization: Information no longer comes from a certain source, but from everyone*
+
+## Web vs Internet
+* Nobody types 'www' on their browsers when launching applications
+* Applications use semiclosed platforms that use the Internet for transport but not the browser for display
+
+## A Debate
+* Does the internet make you dumber? (Nicolas Carr)
+  > People who read text studded with links, studies show, comprehend less than those who read traditional linear text. People who watch busy multimedia presentations remember less than those who take information in a more sedate and focused manner. People who are continually distracted by emails, alerts and other messages understand less than those who are able to concentrate. And people who juggle many tasks are less productive and creative than those who do one thing at a time.
+
+  What we seem to be sacrificing in all our surfing and searching is our capacity to engage in the quieter, attentive modes of thought that underpin contemplation. The Web henever encourages us to slow down and keeps us in a pstate of perpetual locomotion.
+* Does the internet make you smarter? (Clay Shirky)
+
+  ```
+  Digital media have made creating and disseminating text, sound, and images cheap, easy and global. The bulk of publicly available media is now created by people who understand little of the professional standards and practices for media.
+  Instead, these amateurs produce endless streams of mediocrity, eroding cultural norms about quality and acceptability, and leading to increasingly alarmed predictions of incipient chaos and intellectual collapse.
+
+  But of course, that's what always happens. Every increase in freedom to create or consume media, from paperback books to YouTube, alarms people accustomed to the restrictions of the old system, convincing them that the new media will make young people stupid. This fear dates back to at least the invention of movable type.
+
+  We built new norms around newly abundant and contemporary literature. Novels, newspapers, scientific journals, the separation of fiction and non-fiction, all of these innovations were created during the collapse of the scribal system, and all had the effect of increasing, rather than decreasing, the intellectual range and output of society.
+
+  The essential insight of the scientific revolution was peer review, the idea that science was a collaborative effort that included the feedback and participation of others.
+  ```
+
+  * Peer Review: Users themselves review content
+  * Cognitive Surplus
