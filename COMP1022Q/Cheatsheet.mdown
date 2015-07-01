@@ -1,0 +1,8 @@
+# Excel Cheatsheet
+* `IF (condition, true, false)`
+* `VLOOKUP (lookup_value, table_array[$$$], col_index_num, [approximate?])`
+  * eg. VLOOKUP (B, A15:B19, 2)
+* `HLOOKUP (lookup_value, table_array[$$$], row_index_num, [approximate?])`
+* Approximate Matching: Sorted Ascending Order
+* Looking up another table: `Sheet_Name!A1:B2`
+* ISNA(), ISERROR()
