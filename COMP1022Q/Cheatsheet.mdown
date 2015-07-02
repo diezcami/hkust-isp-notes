@@ -1,4 +1,7 @@
-# Excel Cheatsheet
+# Day 2
+* `COUNTIF (table_range, lookup_value)`
+
+# Day 3
 * `IF (condition, true, false)`
 * `VLOOKUP (lookup_value, table_array[$$$], col_index_num, [approximate?])`
   * eg. VLOOKUP (B, A15:B19, 2)
@@ -6,3 +9,13 @@
 * Approximate Matching: Sorted Ascending Order
 * Looking up another table: `Sheet_Name!A1:B2`
 * ISNA(), ISERROR()
+
+# Day 4
+* **Conditional Formatting**
+  * Select cells that contain..
+  * Use boolean formula to determine which cells to format
+    * Relative/Absolute referencing applies
+* **Basic VBA**
+  * Workbook Events: `Open()`, `BeforeClose()`
+  
+  * Worksheet Events: `Change`, `SelectionChange`
