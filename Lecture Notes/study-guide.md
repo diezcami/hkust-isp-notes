@@ -28,8 +28,9 @@
 * Connectivism
 * Latent Microexpertise
 * Designed Serendipity
-* Wisdom of Crowds
 * Identifiers of Collective Intelligence (Relate to Ants)
+* **Wisdom of Crowds**
+* Difference between CI and WoC
 * Double Bridge Experiment
 * Types of Problems (3 C's)
 * Conditions for Collective Intelligence (4)
