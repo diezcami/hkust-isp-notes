@@ -40,9 +40,9 @@
 * Author: James Surowiecki
 * **Main Pont**: Collective outcome is better than individual results, and diversibility beats ability
 * **Types of Problems**
-  * Cognition (eg. Challenger Disaster)
+  * Cognition (eg. Who wants to be a Millionaire, Challenger Disaster, Newsfutures)
   * Cooperation (eg. BitTorrent)
-  * Coordination: Cooperation + Synchronization
+  * Coordination: (Shall We Dance?, Meeting in Central) A person has to think not about what he believes is right but also take into account what others think
 * **Four Conditions**
   * **Diversity**: 
     * Difference beats homogeneity, diversity yields superior outcomes.

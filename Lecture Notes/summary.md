@@ -70,13 +70,34 @@
 
 # Collective Intelligence and Wisdom of Crowds
 * The Internet is providing a platform at which diverse groups of people can pool knowledge, collaborate, debate interpretations and refine their understanding of the world, but such collective wisdom can only occur under certain conditions.
+* **Three Characteristics**: Share Correct Information, Evaluate Contributions, Reach Consensus
+* **Garry Kasparov**: Chess Game by Plurality Vote
+* **Collective Intelligence**: 
+  *Distributed Intelligence (Decentralized), Coordinated in Real Time (Synchronized)
+  * Capacity of the Human Community to evolve towards higher complexity of thought through collaboration and innovation
+  * Networked Culture stemming from the ability of diverse groups
 * **Connectivism**:
-* **Double Bridge Experiment**:
-* **Cognition**:
-* **Cooperation**:
-* **Coordination**:
-* **Circular Mill**:
-* **Tragedy of Commons**:
+  * Collectively, we can know far more than the most brilliant individual
+  * Knowledge is distributed/decentralised, interconnected, personal
+  * **Latent Microexpertise**
+  * **Designed Serendipity**: An idea stimulating another idea
+* **Wisdom of Crowds**: Aggregates isolated/anonymously produced Data
+  * **James Suroiecki**: Large groups are smarter than an elite few
+  * Diversity beats Ability
+* **Identifiers for Collective Intelligence**:
+  * A group of actors
+  * A set of resources available to those actors
+  * A set of actions that the actors take
+  * Collective result of the actions
+  * A way to evaluate the result
+* **Double Bridge Experiment**: Ants work together to return using the shorter path
+* **Types of Problems**: Cognition, Cooperation, Coordination
+* **4 Conditions to be Wise**: Diversity of Opinions (Scott Page), Independence, Decentralisation, Aggregation
+  * Eg. PageRank, Stock Market, Open Source Software, Cloudmark
+* **Factors Inhibiting Collective Intelligence**: Groupthink, Social Dilemmas, Coordination Failures
+* **Circular Mill**: People following the crowd with no real direction
+* **Tragedy of Commons**: Sacrificing Long Term Profit for Short Term Gain
+* **Dumbness of Crowd**: Consensus =/= Correctness, Groups acting as One
 
 # Folksonomy
 * Keyword: **Social**

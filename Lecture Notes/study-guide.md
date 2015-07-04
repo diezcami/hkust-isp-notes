@@ -24,10 +24,16 @@
 * What is the exception to the LT?
 
 * **Collective Intelligence**
+* Characteristics of Collective Intelligence (3)
 * Connectivism
+* Latent Microexpertise
+* Designed Serendipity
+* Wisdom of Crowds
+* Identifiers of Collective Intelligence (Relate to Ants)
 * Double Bridge Experiment
-* Cognition
-* Cooperation
+* Types of Problems (3 C's)
+* Conditions for Collective Intelligence (4)
+* Factors Inhibiting Collective Intelligence (3)
 * Circular Mill
 * Tragedy of Commons
 
