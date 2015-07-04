@@ -52,3 +52,15 @@
   * **Google Pagerank**: Based on Votes (People's Power)
 
 # Collective Intelligence and Wisdom of Crowds
+
+
+# Folksonomy
+* Keyword: **Social**
+
+```
+Similar to Delicious or StumbleUpon, Pinterest is a collaborative tagging system. Recent research has shown that these systems have powerful self-organizing behaviors. As the "wisdom of crowds" converges, it results in what is called a "folksonomy." Folksonomies dramatically lower the barriers to information sharing, as well as discovery. Pinterest "one-upped" the game on link-sharing by tacking on self-expression, a most vital social currency. It nailed information relevance and social behavior in a single package.
+
+This is where Pinterest comes in, introducing a powerful concept, one of establishing relevance and connections through shared interests. With Pinterest, it’s the things we like that connect us. It's a natural propensity, one that mimics the way we behave with our connections in real life. Pinterest’s focus on the interest graph as opposed to the social graph—and its success with this strategy—has cast doubt on the long-standing belief that we want to discover content primarily though our social connections. 
+
+Finally, while other social networks have largely focused on static sharing behaviors (think "liked," "stumbled," "digged," "read," "watched" and "checked in," all coming soon into a "timeline"), Pinterest is focused on fluidly bringing users together through visual discovery, while connecting them to the stories and authors behind "pins," whether they be trusted friends, interesting strangers, or brands thinking creatively.
+```
