@@ -12,7 +12,7 @@
 * **Relevant People**:
   * Tim Berners-Lee: Web 2.0 features are not new (eg. Blog, Wiki, User Content)
   * Jaron Lanier: Digital Maoism (Humans are undervalued in favor of crowd identity), Hive Mind Mentality, Healthy Society needs a Gatekeeper
-  * Andrew Keen: Digital Vertigo, Age of Echibitionism - The more connected we become, the more alienated we become
+  * Andrew Keen: Digital Vertigo, Age of Exhibitionism - The more connected we become, the more alienated we become
   * Evgeny Morozov: Arab Spring Revolt - People use internet for democracy etc, Government uses it to pacify populations
 * **Internet as a Platform**: to-do
 * **User-generated Content**: to-do
