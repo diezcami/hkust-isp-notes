@@ -24,7 +24,6 @@
 * **Characteristics of Emergent System**
   * Cumulative actions at the lowest levels of production make up the overall value of a system.
   * Users can mold the overall value or shape of a service depending on their behaviour.
-
 * **Principles of Wikinomics**
   * **MEMORIZE (SOP)**: Sharing, Openness, Peering
     * Sharing refers to expanding markets to create new opportunities, Openness refers to the transparency and easy of access of information, and Peering refers to the horizontal (non-hierarchical), eligalitarian system/atmosphere.
@@ -44,7 +43,7 @@
 * **Basic idea of Long Tail**
   * Long Tail refers to how niche products make up a market share that rivals or exceeds that of the best sellers, following Pareto's Principle.
 * **Long tail and Web 2.0 (Effects)**
-  * Web 2.0 has three main effects on the long tail. Democratising the tools of production allows users to generate more content, which makes the tail longer. Democratising the tools of distribution allows users to distribute or access niche products more, which fattens the tail. Connecting supply and demand drive businesses from hits to niches.
+  * Web 2.0 has three main effects on the long tail. Democratising the tools of production allows users to generate more content, which makes the tail longer. Democratising the tools of distribution allows users to distribute or access niche products more, which fattens the tail. Connecting supply and demand drive businesses from hits to niches, which narrows the head.
 
 ## Search and Database of Intentions
 * **How search engine works : The 3 components of search engine**
@@ -84,14 +83,23 @@
   * **MEMORIZE (ICSO)**: Individual/Collective, Single Solution/Open Ended
     * Individual Single Solution Solutions can be seen in Yahoo Questions and Naver. Individual Open Ended Solutions can be seen in Lego's Crowdsourcing. Collective Single Solution can be seen through Ted's Translation Project. Collective Open Ended Solutions can be seen in Open Source.
 * **Crowdsourcing vs. outsourcing**
+  * Crowdsourcing is usually open though the company eventually ends up keeping Intellectual Property, and doesn't involve employees or any notion of a team. Outsourcing on the other hand is closed, and involves external employees and teams. Crowdsourcing is also cheaper than outsourcing.
 * **Crowdsourcing application: Questions**
+  * This method of crowd sourcing involves directly asking a question to the community, as observed in Naver and Yahoo! Questions.
 * **Crowdsourcing application: Distributed Innovation**
+  * This method of crowd sourcing involves users solving problems for cash, and companies looking for solutions to problems and looking to acquire intellectual property as observed in InnoCentive and P&G's Pringles Print.
 * **Crowdsourcing application: Innovation Prize**
+  * This method of crowd sourcing involves presenting a problem open for anyone to solve for a sum of money, as observed in Netflix's Million Dollar Challenge and Topcoder.
 * **Crowdsourcing application: Citizen Science**
+  * This method of crowd sourcing involves conducting research with the help of amateur or nonprofessional volunteers, as observed in Zooniverse.
 * **Crowdsourcing application: Content Rating**
+  * This method of crowd sourcing involves creating new content by making users organize existing cottent, as observed in Reddit or Yahoo Buzz.
 * **Crowdsourcing application: Prediction Market**
+  * This method of crowd sourcing involves creating speculative markets for the purpose of making predictions on the popularity of trends, as seen in Hollywood Exchange.
 * **Crowdsourcing application: Service Marketplace**
+  * This method of crowd sourcing revolves around freelance work, and involves businesses posting jobs and searching for freelance professionals as observed in Elance and crowdSpring.
 * **Crowdsourcing application: Crowdfunding**
+  * This method of crowd sourcing asks users to donate money to a cause, as observed in Kickstarter.
 * **Crowdsourcing application: Micro Task**
 * **Not so successful examples of Crowdsourcing: Assignment Zero**
 

@@ -29,7 +29,7 @@
   * **P&G's Pringles Print**
   * **Innocentive**
     * Solar-Powered Wireless Router by Zacary Brown
-    * Novel Way of getting FLuoride into Toothpaste Tubes by Ed Melcarke
+    * Novel Way of getting Fluoride into Toothpaste Tubes by Ed Melcarke
   * **Yet2**
     * Broadcast solutions to general problems, Online Marketplace for Intellectual Property Exchange
 * **Content Rating**:
