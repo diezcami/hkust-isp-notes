@@ -22,9 +22,12 @@
 
 ## Collective Intelligence
   * Classified user-generated information
-  * **Derived Intelligence**: Analyze explicit/implicit information to aggregate data collected
+  * **Derived Intelligence**: Analyze explicit/implicit information to aggregate data collected (eg. Data Mining, Clustering and Predictive Analysis)
   * **Explicit Intelligence**: Provided by the user directly in the application (Review, Tags, Bookmarks, Recommendations)
   * **Implicit Intelligence**: Provided by the user in or out of the application in an unstructured format (Blogs, Wikis, Communities)
+  * Two forms of data:
+    * Structured: Well-defined, easily stored and queried on (Ratings, Page Hits, Purchased Items)
+    * Unstructured: Typically in form of raw text (Reviews, Forum Posts, Blog ENtries, Chat Sessions)
 
 
 ## My (Probably Crazy) Plan to Give Up the Internet
