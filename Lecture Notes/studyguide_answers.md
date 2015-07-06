@@ -60,14 +60,29 @@
 
 ## Collective Intelligence
 * **Definition of Collective intelligence [Key Terms]**
+  * Nobody knows everything, everyone knows something (Harness latent microexpertise)
+  * **MEMORIZE (SER)**: Share correct information, Evaluate each others' results, Reach a consensus
+  * **MEMORIZE (DCHC)**: Distributed Intelligence, Coordinated, Human Community, Collaboration
 * **Collective behaviour in ant colony & double bridge experiment**
+  * **MEMORIZE (GRARE)**: Group of Actors, Resources available to the Group, Actions that the actors take, Collective Result of the Actions, Evaluate the result
+    * Collective Intelligence has 5 identifiers, which can all be related to the ants. A group of actors is represented by the ant colony. The resources available to the group is represented by food. The actions taken by the actors is represented by leaving pheremone. The collected result of the actions is represented by by the accumulations of the pheremone. Finally, the result is evaluated by looking at the distance covered by pheremones and the amount of food retrieved. 
+    * In the double bridge experiment, a more or less similar number of ants take both the longer and shorter path, leaving pheremones in both. On the way back, however, the ants are able to return using the shorter bridge as a result of the pheremones left behind. 
 * **Types of problems that WoC are good at**
+  * **MEMORIZE (CCC)**: Cognition, Cooperation, Coordination
+    * Cognition Problems have a definite answer, Cooperation Problems involve collective efforts of people who volunteer to achieve specified objectives, and Coordination Problems is self-organizing, fluid and involves taking the thoughts of others into account when making decisions.
 * **The four conditions for wise crowds**
+  * **MEMORIZE (DADI)**: Diversity of Opinions, Aggregation, Decentralisation, Independence
+    * Diversity of Opinions is important as diversity yields superior results, and due to the latent microexpertise found in every individual. Aggregation is important as a consensus or verdict must be reached collectively. Decentralisation is important as the decisions have to be made by individuals, and not by a separate authority. Lastly, independence is important in order to avoid groupthinking, which can lead to situations similar to the Circular Mill.
 * **Why sometimes crowds are dumb**
+  * **MEMORIZE (GSC)**: Groupthink, Social Dilemma, Coordination Failures
+    * Groupthink occurs when people conform to the ideas of others instead of thinking critically (Herd Mentality), which results in a lack of contributions to the aggregated result. It can be remedied by fostering diversity and independence. Social Dilemma occurs when the whole is less than the sum of the parts due to the *Tragedy of Commons*, which occurs when people put short term priorities over long term ones. It can be remedied by rewarding individual participation. Coordination Failures occur when people's contributions cancel out or interfere with those of others, and can be remedied by coordinating individual contributions.
 * **CI vs. WoC**
-* **Topology of problem solving on the internet**
+  * Collective Intelligence focuses more on reaching a consensus where participants collect, share, evaluate and aggregate information together. Wisdom of Crowds focuses more on aggregating anonymously produced and isolated data.
 
 ## Crowdsourcing
+* **Typology of problem solving on the internet**
+  * **MEMORIZE (ICSO)**: Individual/Collective, Single Solution/Open Ended
+    * Individual Single Solution Solutions can be seen in Yahoo Questions and Naver. Individual Open Ended Solutions can be seen in Lego's Crowdsourcing. Collective Single Solution can be seen through Ted's Translation Project. Collective Open Ended Solutions can be seen in Open Source.
 * **Crowdsourcing vs. outsourcing**
 * **Crowdsourcing application: Questions**
 * **Crowdsourcing application: Distributed Innovation**
