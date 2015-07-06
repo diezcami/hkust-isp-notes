@@ -41,7 +41,7 @@
   * Market Shares of the 80 rival or exceed the 20
   * Chris Anderson
 * **Pareto's Principle**: 20% of anything produces 80% the effort
-* **Effects of LT on Web 2.0**
+* **Effects of Web 2.0 on Long Tail**
   * **Democratize the tools of production**: More Material -> Longer Tail, eg. Garage Band, Wikipedia
   * **Democratize the tools of distribution**: More Sharing Platforms -> Fatter Tail, eg. Self-Distribution Sites (Lulu, Youtube), CNN i-Report, Wikipedia
   * **Connect supply and demand**: Hits to Niches
@@ -109,7 +109,7 @@
     * Synonyms: Different Tag, Same Meaning
     * Plural vs Singular
     * Acronyms
-* **Tag Cloud**: Visual Represtntations of the popularity of social tags
+* **Tag Cloud**: Visual Representations of the popularity of social tags
 * **Emergent Behavior**: Self-Organization, Bottom-Up
   * Agents are dynamically interacting
   * System is adaptive and grows smarter over time
