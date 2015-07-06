@@ -105,13 +105,32 @@
 
 ## Folksonomy
 * **Taxonomy vs. Folksonomy**
+  * Taxonomy refers to when experts organize and categorize concepts into categories, while Folksonomy refers to personal free tagging done by general users.
 * **Advantages and Disadvantages of Folksonomy**
+  * **MEMORIZE (SCORE)**: Simple, Cheap, Open, Relevance, Easy
+  * **MEMORIZE (SELSQ-PASP)**: Lack of Structure, Errors, Limited Applicability, Scale, Quality; Polysemy, Acronyms, Synonyms, Plural/Singular
 * **Define Tag Cloud**
+  * A tag cloud is a visual representation of the popularity of social tags - the larger the tag, the more popular it is.
 
 
-## Read the following articles
-* After Jackson, fame may never be the same [think in the context of Long Tail and web 2.0]
-* The Rise of the New Groupthink [note: according to the author, what is the new groupthink? why the author objects to it?  But under what circumstances he agrees with the power of the group?] 
-* Crowd sourcing a better world.  [note: pay attention to Ushahidi.com and openideo.com] 
-* Innovation: It Isn’t a Matter of Left or Right  [pay attention to what the author means the “fourth quadrant” innovation and why it is successful.  read also the description of Kickstarter]
+# Read the following articles
+
+## After Jackson, fame may never be the same [Long Tail, Web 2.0]
+  * The article talks about how nobody will be able to reach Michael Jackson's fame in this day and age due to Web 2.0. With Web 2.0, the general public has access to several platforms to produce, distribute and access music, causing the long tail to become longer and fatter. Given how crowded the music industry is, the author states that even Michael Jackson would have difficulty reaching his fame then today due to the availability of these platforms. 
+
+## The Rise of the New Groupthink
+  * **According to the author, what is the new groupthink?**
+    * According to the author, the new groupthink is said to be when creativity and achievement come from working in teams as opposed to working in solitude. 
+  * **Why does he object to it?**
+    * The author objects to it as he believes solitude and introversion allow people to have less distractions while working. With less distractions, people are more likely to be creative in addition to having more energy to use on work as opposed to social and sexual matters unrelated to work.
+  * **Under what circumstances does he agree with the power of the group?**
+    * One exception he agrees with is *electronic brainstorming*, which is a situation where large groups outperform individuals due to the diversity of ideas being contributed. He also thinks working as a group is fine as long as the members work independently on their own piece of the puzzle.
+
+## Crowd sourcing a better world
+  * **Ushahidi.com**
+  * **Openideo.com**
+
+## Innovation: It Isn’t a Matter of Left or Right 
+  * **What is the “fourth quadrant” innovation, and why it is successful?**
+  * **Description of Kickstarter**
 
