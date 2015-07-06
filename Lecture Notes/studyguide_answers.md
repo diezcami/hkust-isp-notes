@@ -44,13 +44,19 @@
 * **Basic idea of Long Tail**
   * Long Tail refers to how niche products make up a market share that rivals or exceeds that of the best sellers, following Pareto's Principle.
 * **Long tail and Web 2.0 (Effects)**
+  * Web 2.0 has three main effects on the long tail. Democratising the tools of production allows users to generate more content, which makes the tail longer. Democratising the tools of distribution allows users to distribute or access niche products more, which fattens the tail. Connecting supply and demand drive businesses from hits to niches.
 
 ## Search and Database of Intentions
 * **How search engine works : The 3 components of search engine**
+  * The search engine has three components; the spider or web crawler parses and analyzes words and links all over the web, the index algorithm which creates an index to return meaningful results for each query, and the query processor which which receives a query and returns results based on the index.
 * **History of search engine [Archie & Alta Vista]**
+  * Archie is a searchable directory of FTP files, while AltaVisa provided an index of web pages and efficient search. 
 * **Search engines and political analogy**
+  * AltaVista can be compared to an anarchy as there was no order, Yahoo can be compared to a dictatorship because the web pages in the index were placed by a certain group of people, while Google's PageRank can be compared to a democracy/People's Power as the ranking system was based on votes.
 * **How PageRank works**
+  * PageRank responds to a query by returning a list of web pages ranked by their credibility. This credibility was recursively judged by counting how many times the site has been linked to from other websites, whose credibilities were also judged following the same pattern.
 * **Database of intentions in 2010 [the four signals]**
+  * The Query [Google, Bing], The Social Graph [Facebook, MySpace], The Status Update [Facebook, Twitter], The Check-in [Foursquare]
 
 ## Collective Intelligence
 * **Definition of Collective intelligence [Key Terms]**
