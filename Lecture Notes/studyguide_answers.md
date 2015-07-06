@@ -29,7 +29,7 @@
   * **MEMORIZE (SOP)**: Sharing, Openness, Peering
     * Sharing refers to expanding markets to create new opportunities, Openness refers to the transparency and easy of access of information, and Peering refers to the horizontal (non-hierarchical), eligalitarian system/atmosphere.
 * **Web 2.0 detractors**
-    * **Jaron Lanier** talks about Digital Maoism and how Web 2.0 needs a gatekeeper due to the redundancy or repetitiveness of the published information. **Andrew Keen** talks about Web 2.0 being the Cult of the Amateur and the Age of Exhibitionism, due to the ease of access provided by platforms allowing people to publish multiple kinds of information about their lives. He also mentions Digital Vertigo, which talks about how people become more alienated from each other the more they become connected on the web. **Evgeny Morozov* talks about how people use the internet as a platform for protesting, and how the government uses it to censor information and provide entertainment to pacify crowds. 
+    * **Jaron Lanier** talks about how Web 2.0 needs a gatekeeper due to the redundancy or repetitiveness of the published information. He also talks about Digital Maoism, where crowd mentalities are favored above individual identities. **Andrew Keen** talks about Web 2.0 being the Cult of the Amateur and the Age of Exhibitionism, due to the ease of access provided by platforms allowing people to publish multiple kinds of information about their lives. He also mentions Digital Vertigo, which talks about how people become more alienated from each other the more they become connected on the web. **Evgeny Morozov* talks about how people use the internet as a platform for protesting, and how the government uses it to censor information and provide entertainment to pacify crowds. 
 * **Define Streisand Effect**
   * Streisand Effect refers to the phenomenon where attempting to hide information on the internet results in it becoming more publicized than what would have occurred if no action had been taken to hide it.
 * **Define Web Troll**
@@ -37,8 +37,12 @@
 
 ## Network Effect and Long Tail
 * **Sources of network effect**
+  * **MEMORIZE [PUNT]**: Person to Person Communication, User Generated Content, Nodes in a Network, Trading Volume
+    * P2PC refers to how many people use a platform (eg. Telephone, Email), User Generated Content refers to the amount of content in the system (eg. Wikipedia, Online Communities), Nodes in a Network refers (eg. Bittorent, P2P Networks), and Trading Volume refers to the number of partners/users in two sided markets (eg. eBay, Uber)
 * **Network structure of network effect**
+  * One Sided Markets derive value from the same type of users (eg. Facebook users attract other Facebook Users), while Two Sided Markets derive value from two types of users (eg. eBay Buyers and Sellers, Uber Passengers and Drivers)
 * **Basic idea of Long Tail**
+  * Long Tail refers to how niche products make up a market share that rivals or exceeds that of the best sellers, following Pareto's Principle.
 * **Long tail and Web 2.0 (Effects)**
 
 ## Search and Database of Intentions
