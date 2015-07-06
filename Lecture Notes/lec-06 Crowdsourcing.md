@@ -25,9 +25,36 @@
   * They rejected because of the **community**; people *made* the company - if there's no community, there's no company 
   * Community: **Sense of Ownership**, Threadless taking into account what the community thinks of their decisions
   * Intention is a big part of what makes a company successful (eg. Community > Money)
-* **Distributed Innovation**: Innocentive
-  * Solar-Powered Wireless Router by Zacary Brown
-  * Novel Way of getting FLuoride into Toothpaste Tubes by Ed Melcarke
+* **Distributed Innovation**: 
+  * **P&G's Pringles Print**
+  * **Innocentive**
+    * Solar-Powered Wireless Router by Zacary Brown
+    * Novel Way of getting FLuoride into Toothpaste Tubes by Ed Melcarke
+  * **Yet2**
+    * Broadcast solutions to general problems, Online Marketplace for Intellectual Property Exchange
+* **Content Rating**:
+  * Users themselves rate content through voting (eg. Reddit)
+* **Service Marketplaces**
+  * **crowdSpring**: Marketplace for logo/web design, and crowdsourced writing projects
+  * **Elance** Allows business to post jobs, search for freelance professionals
+* **Content Market**
+  * Generate new content by soliciting the masses
+  * Language Translation
+* **Micro Task**
+* **Crowdfunding**
+  * Asking the crowd to donate a defined amount of money
+
+* **Not Successful**
+  * **Ideastorm**
+    * Asking the crowd what features they like/dislike in a laptop
+    * People responded saying they don't prefer Unix over Microsoft
+  * **Cambrian House**
+    * Think of an Algorithm, Crowd tests and builds it
+  * **Assignment Zero**
+    * Asked the crowd to report
+    * The software used was not good
+    * There's no coordination
+
 
 
 ```
