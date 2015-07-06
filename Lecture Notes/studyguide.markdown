@@ -39,9 +39,9 @@
 * The four conditions for wise crowds
 * Why sometimes crowds are dumb: Information cascade, herd behaviour, tragedy of commons
 * CI vs. WoC
-* Topology of problem solving on the internet
 
 ## Crowdsourcing
+* Topology of problem solving on the internet
 * Crowdsourcing vs. outsourcing
 * Crowdsourcing application: Questions - answers.yahoo.com, naver.com
 * Crowdsourcing application: Distributed Innovation - innocentive
