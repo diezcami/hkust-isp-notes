@@ -1,4 +1,4 @@
-# ISOM1090  Midterm Study Guide 
+# ISOM1090  Midterm Study Guide  1.3
 
 ## Purpose of the mid-term to evaluate students’ ability to:
 * **Articulate the origin, characteristics and principles of Web 2.0**
@@ -60,6 +60,7 @@
 ## Collective Intelligence
 * **Definition of Collective intelligence [Key Terms]**
   * Nobody knows everything, everyone knows something (Harness latent microexpertise)
+  * **In Web 2.0**: Networked Culture, Diverse Groups
   * **MEMORIZE (SER)**: Share correct information, Evaluate each others' results, Reach a consensus
   * **MEMORIZE (DCHC)**: Distributed Intelligence, Coordinated, Human Community, Collaboration
 * **Collective behaviour in ant colony & double bridge experiment**
@@ -114,6 +115,30 @@
 * **Define Tag Cloud**
   * A tag cloud is a visual representation of the popularity of social tags - the larger the tag, the more popular it is.
 
+## Miscellaneous Concepts
+* **Pareto's Principle**
+  * The belief that 20% of a product produces 80% of the profit, thereby implying that the remaining 80% of a product is negligible. The principle was eventually replaced by the Long Tail.
+* **James Surowiecki**
+  * Wrote the book on *Wisdom of Crowd*, and states that large groups of people are better than an elite few, no matter how brilliant they are.
+* **Tim Berners-Lee**
+  * Created the World Wide Web, and argued that Web 2.0 is simply an improved version of Web 1.0 due to the common technologies.
+* **Synonyms of Web 2.0**
+  * **MEMORIZE (PAS)**: Participatory Web, Amateurisation, Social Web
+    * Participatory Web refers to the progression from static to dynamic/interactive web pages, Amateurisation refers to the ease of access of platforms to average people, Social Web refers to the emergence of social networking and community oriented sites.
+* **Bandwagon Effect**
+  * The probability of any individual adopting a service increases with the proportion of who've already done so
+* **Leveling Effect**
+  * An effect of Web 2.0 that redistributed power from the authority/experts to the ordinary citizens. It empowered people and created an open and non-hierarchical society on the web.
+* **Chris Anderson**
+  * Coined the term *'Long Tail'* in 2014.
+* **Garry Kasparov**
+  * Played a chess game against a world team where moves were decided by plurality vote.
+* **Connectivism**
+  * The reason we, collectively as a society, know far more than the most brilliant individual. It made knowledge decentralized, interconnected and personal.
+* **Designed Serendipity**
+  * Occurs when an idea inspires the creation of another idea
+* **The Cuckoo's Calling**
+  * The exception to the Long Tail
 
 # Read the following articles
 
