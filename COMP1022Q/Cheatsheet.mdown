@@ -1,13 +1,14 @@
 # Day 2
 * `COUNTIF (table_range, lookup_value)`
+    * Count number of `lookup_value` occurences in `table_range`
 
 # Day 3
 * `IF (condition, true, false)`
 * `VLOOKUP (lookup_value, table_array[$$$], col_index_num, [approximate?])`
-  * eg. VLOOKUP (B, A15:B19, 2)
+  * eg. VLOOKUP (B, A15:B19, 2): Look up `B` in the table `A15:B19` (make it absolute though), and return the corresponding value in the 2nd column.
 * `HLOOKUP (lookup_value, table_array[$$$], row_index_num, [approximate?])`
-* Approximate Matching: Sorted Ascending Order
-* Looking up another table: `Sheet_Name!A1:B2`
+* Approximate Matching: Entries must be sorted in **Ascending Order**
+* Looking up a table from another sheet: `Sheet_Name!A1:B2`
 * ISNA(), ISERROR()
 
 # Day 4
@@ -17,17 +18,19 @@
     * Relative/Absolute referencing applies
 * **Basic VBA**
   * Workbook Events: `Open()`, `BeforeClose()`
-  
   * Worksheet Events: `Change`, `SelectionChange`
 
 # Day 5
-* Example of Breaking:
+* Example of Breaking Lines:
 ```
 Sub Hello()
     MsgBox "A cat with a hat sat on a mat!", _
         vbExclamation, _
         "Poem: A cat with a hat sat on a mat!"
 End Sub
+```
+* **Data Types**: Integer/Long, Single/Double, Boolean, String
+* **Autoplay Macros**: `Sub Workbook_Open()`
 * **Output (MsgBox)**: `MsgBox message_string, [icon], [title_string]`
     * Icons: vbDefaultButton1, vbExclamation, vbCritical, vbInformation, vbQuestion
 * **Input (InputBox)**: `InputBox (message_string, [title_string], [default_field_text])`
