@@ -22,7 +22,7 @@
 
 # Day 5
 * Example of Breaking Lines:
-```
+``` vba
 Sub Hello()
     MsgBox "A cat with a hat sat on a mat!", _
         vbExclamation, _
@@ -34,3 +34,12 @@ End Sub
 * **Output (MsgBox)**: `MsgBox message_string, [icon], [title_string]`
     * Icons: vbDefaultButton1, vbExclamation, vbCritical, vbInformation, vbQuestion
 * **Input (InputBox)**: `InputBox (message_string, [title_string], [default_field_text])`
+* **Control Flow**
+``` vba
+If Range("A4").Value > 3 Then
+    Range("D4").Value = "Cell A4 is greater than 3!"
+ElseIf Range("A4").Value = 3 Then
+    Range("D4").Value = "Cell A4 is equal to 3!"
+Else
+    Range("D4").Value = "Cell A4 is less than 3!"
+End If
