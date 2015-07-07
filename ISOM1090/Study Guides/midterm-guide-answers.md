@@ -159,5 +159,7 @@
 
 ## Innovation: It Isn’t a Matter of Left or Right 
   * **What is the “fourth quadrant” innovation, and why it is successful?**
+    * The fourth quadrant refers to the space of collaborative and nonproprietary innovation (open source). It has generated more world changing ideas than the competitive sphere of the marketplace, including but not limited to birth control pills and batteries. The author suggests that the fourth quadrant is successful despite its lack of traditional economic rewards due to the increased connectivity that comes with the open environments, which allowed ideas to flow without the complexity of business development and patents. 
   * **Description of Kickstarter**
+    * Kickstarter is a start-up that allows individuals to fund creative projects. The donors of these projects are compensated through simple merchandise or event invitations, as opposed to shares/partial ownership of the project they've contributed to. This economic exchange works differently from the traditional logic of markets as donations are done out of social rather than monetary rewards, and the artists rely on decentralized networks of support rather than government grants. 
 
