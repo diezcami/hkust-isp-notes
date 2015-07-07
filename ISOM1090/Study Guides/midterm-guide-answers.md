@@ -1,4 +1,4 @@
-# ISOM1090  Midterm Study Guide  1.3
+# ISOM1090  Midterm Study Guide  
 
 ## Purpose of the mid-term to evaluate students’ ability to:
 * **Articulate the origin, characteristics and principles of Web 2.0**
@@ -154,8 +154,11 @@
     * One exception he agrees with is *electronic brainstorming*, which is a situation where large groups outperform individuals due to the diversity of ideas being contributed. He also thinks working as a group is fine as long as the members work independently on their own piece of the puzzle.
 
 ## Crowd sourcing a better world
+  * The concept of crowdsourcing revolves around collecting contributions from many individuals to achieve a goal. 
   * **Ushahidi.com**
+    * Ushadidi is a platform that allows users text or email reports on occurrences of post-election violence, and have their report posted on a map. It was useful for rapid intervention and accurate documentation, which is especially useful as mainstream sources of media are usually unavailable. Users are allowed to vote on the credibility of the information, which makes the site more reliable and consistent. 
   * **Openideo.com**
+    * Openideo is a platform that posts challenges financially sponsored by groups interested in solving them. The process includes getting ideas from the public, asking readers to refine them, and asking the public to vote, similarly to how a brainstorming session works. 
 
 ## Innovation: It Isn’t a Matter of Left or Right 
   * **What is the “fourth quadrant” innovation, and why it is successful?**
