@@ -28,7 +28,7 @@
   * **MEMORIZE (SOP)**: Sharing, Openness, Peering
     * Sharing refers to expanding markets to create new opportunities, Openness refers to the transparency and easy of access of information, and Peering refers to the horizontal (non-hierarchical), eligalitarian system/atmosphere.
 * **Web 2.0 detractors**
-    * **Jaron Lanier** talks about how Web 2.0 needs a gatekeeper due to the redundancy or repetitiveness of the published information. He also talks about Digital Maoism, where crowd mentalities are favored above individual identities. **Andrew Keen** talks about Web 2.0 being the Cult of the Amateur and the Age of Exhibitionism, due to the ease of access provided by platforms allowing people to publish multiple kinds of information about their lives. He also mentions Digital Vertigo, which talks about how people become more alienated from each other the more they become connected on the web. **Evgeny Morozov* talks about how people use the internet as a platform for protesting, and how the government uses it to censor information and provide entertainment to pacify crowds. 
+    * **Jaron Lanier** talks about how Web 2.0 needs a gatekeeper due to the redundancy or repetitiveness of the published information. He also talks about Digital Maoism, where crowd mentalities are favored above individual identities. **Andrew Keen** talks about Web 2.0 being the Cult of the Amateur and the Age of Exhibitionism, due to the ease of access provided by platforms allowing people to publish multiple kinds of information about their lives. He also mentions Digital Vertigo, which talks about how people become more alienated from each other the more they become connected on the web. **Evgeny Morozov** talks about how people use the internet as a platform for protesting, and how the government uses it to censor information and provide entertainment to pacify crowds. 
 * **Define Streisand Effect**
   * Streisand Effect refers to the phenomenon where attempting to hide information on the internet results in it becoming more publicized than what would have occurred if no action had been taken to hide it.
 * **Define Web Troll**
@@ -46,7 +46,7 @@
   * Web 2.0 has three main effects on the long tail. Democratising the tools of production allows users to generate more content, which makes the tail longer. Democratising the tools of distribution allows users to distribute or access niche products more, which fattens the tail. Connecting supply and demand drive businesses from hits to niches, which narrows the head.
 
 ## Search and Database of Intentions
-* **How search engine works : The 3 components of search engine**
+* **How search engine works: The 3 components of search engine**
   * The search engine has three components; the spider or web crawler parses and analyzes words and links all over the web, the index algorithm which creates an index to return meaningful results for each query, and the query processor which which receives a query and returns results based on the index.
 * **History of search engine [Archie & Alta Vista]**
   * Archie is a searchable directory of FTP files, while AltaVisa provided an index of web pages and efficient search. 
@@ -76,7 +76,7 @@
   * **MEMORIZE (GSC)**: Groupthink, Social Dilemma, Coordination Failures
     * Groupthink occurs when people conform to the ideas of others instead of thinking critically (Herd Mentality), which results in a lack of contributions to the aggregated result. It can be remedied by fostering diversity and independence. Social Dilemma occurs when the whole is less than the sum of the parts due to the *Tragedy of Commons*, which occurs when people put short term priorities over long term ones. It can be remedied by rewarding individual participation. Coordination Failures occur when people's contributions cancel out or interfere with those of others, and can be remedied by coordinating individual contributions.
 * **CI vs. WoC**
-  * Collective Intelligence focuses more on reaching a consensus where participants collect, share, evaluate and aggregate information together. Wisdom of Crowds focuses more on aggregating anonymously produced and isolated data.
+  * Collective Intelligence focuses more on reaching a consensus where participants collect, share, evaluate and aggregate information together. Wisdom of Crowds (**James Surowiecki**) focuses more on aggregating anonymously produced and isolated data.
 
 ## Crowdsourcing
 * **Typology of problem solving on the internet**
@@ -87,13 +87,13 @@
 * **Crowdsourcing application: Questions**
   * This method of crowd sourcing involves directly asking a question to the community, as observed in Naver and Yahoo! Questions.
 * **Crowdsourcing application: Distributed Innovation**
-  * This method of crowd sourcing involves users solving problems for cash, and companies looking for solutions to problems and looking to acquire intellectual property as observed in InnoCentive and P&G's Pringles Print.
+  * This method of crowd sourcing involves users solving problems for cash, and companies looking for solutions to problems and looking to acquire intellectual property as observed in InnoCentive and P&G's Pringles Print. It can be referred to as the eBay/Marketplace for ideas.
 * **Crowdsourcing application: Innovation Prize**
-  * This method of crowd sourcing involves presenting a problem open for anyone to solve for a sum of money, as observed in Netflix's Million Dollar Challenge and Topcoder.
+  * This method of crowd sourcing involves presenting a problem open for anyone to solve for a large sum of money, as observed in Netflix's Million Dollar Challenge, Goldcorp and Threadless.
 * **Crowdsourcing application: Citizen Science**
   * This method of crowd sourcing involves conducting research with the help of amateur or nonprofessional volunteers, as observed in Zooniverse.
 * **Crowdsourcing application: Content Rating**
-  * This method of crowd sourcing involves creating new content by making users organize existing cottent, as observed in Reddit or Yahoo Buzz.
+  * This method of crowd sourcing involves creating new content by making users organize existing cottent, as observed in Reddit or Digg.
 * **Crowdsourcing application: Prediction Market**
   * This method of crowd sourcing involves creating speculative markets for the purpose of making predictions on the popularity of trends, as seen in Hollywood Exchange.
 * **Crowdsourcing application: Service Marketplace**
@@ -101,7 +101,9 @@
 * **Crowdsourcing application: Crowdfunding**
   * This method of crowd sourcing asks users to donate money to a cause, as observed in Kickstarter.
 * **Crowdsourcing application: Micro Task**
+  * This method of crowd sourcing involves asking users to fulfill small tasks, as seen in Amazon's Mechanical Turk.
 * **Not so successful examples of Crowdsourcing: Assignment Zero**
+  * Assignment Zero was an attempt to crowd source journalism by asking the public to contribute to the covering of a story. The project failed due to the inadequacies of the software used and the lack of coordination between users.
 
 ## Folksonomy
 * **Taxonomy vs. Folksonomy**
