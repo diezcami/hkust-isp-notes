@@ -34,6 +34,7 @@ End Sub
 * **Output (MsgBox)**: `MsgBox message_string, [icon], [title_string]`
     * Icons: vbDefaultButton1, vbExclamation, vbCritical, vbInformation, vbQuestion
 * **Input (InputBox)**: `InputBox (message_string, [title_string], [default_field_text])`
+* **Referencing a Cell**: `Range("A1").Value`
 * **Control Flow**
 ``` vba
 If Range("A4").Value > 3 Then
