@@ -19,3 +19,15 @@
   * Workbook Events: `Open()`, `BeforeClose()`
   
   * Worksheet Events: `Change`, `SelectionChange`
+
+# Day 5
+* Example of Breaking:
+```
+Sub Hello()
+    MsgBox "A cat with a hat sat on a mat!", _
+        vbExclamation, _
+        "Poem: A cat with a hat sat on a mat!"
+End Sub
+* **Output (MsgBox)**: `MsgBox message_string, [icon], [title_string]`
+    * Icons: vbDefaultButton1, vbExclamation, vbCritical, vbInformation, vbQuestion
+* **Input (InputBox)**: `InputBox (message_string, [title_string], [default_field_text])`
