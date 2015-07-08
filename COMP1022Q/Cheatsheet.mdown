@@ -1,6 +1,7 @@
 # Day 2
-* `COUNTIF (table_range, lookup_value)`
-    * Count number of `lookup_value` occurences in `table_range`
+* `COUNTIF (table_range, criteria)`
+    * Count number of `criteria` occurences in `table_range`
+    * To count non-occurences, use `NOT(COUNTIF(..))`
 
 # Day 3
 * `IF (condition, true, false)`
@@ -9,7 +10,13 @@
 * `HLOOKUP (lookup_value, table_array[$$$], row_index_num, [approximate?])`
 * Approximate Matching: Entries must be sorted in **Ascending Order**
 * Looking up a table from another sheet: `Sheet_Name!A1:B2`
-* ISNA(), ISERROR(): Cite Examples Later
+* `MOD(A,B)`
+  * 1960 is the year of the rat, so `MOD(Year - 1960, 12) + 1`
+* Error Handling:
+  * `ISNA()`: Used to detect errors with lookup functions
+    * eg. `IF(ISNA(VLOOKUP(..)), "-", VLOOKUP(...))`
+  * `ISERROR`: Used for general errors
+    * eg. `IF(ISERROR(B4 * 2.2), "Please enter a valid number", B4 * 2.2)`
 
 # Day 4
 * **Conditional Formatting**
@@ -17,8 +24,11 @@
   * Use boolean formula to determine which cells to format
     * Relative/Absolute referencing applies
 * **Basic VBA**
+  * Subroutine Signature: `Private Sub Event()`
   * Workbook Events: `Open()`, `BeforeClose()`
-  * Worksheet Events: `Change`, `SelectionChange`
+  * Worksheet Events
+    * `Change`: Occurs when something changes in a cell
+    * `SelectionChange`: Occurs when the selection changes
 
 # Day 5
 * Example of Breaking Lines:
