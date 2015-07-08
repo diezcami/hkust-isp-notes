@@ -2,6 +2,9 @@
 * `COUNTIF (table_range, criteria)`
     * Count number of `criteria` occurences in `table_range`
     * To count non-occurences, use `NOT(COUNTIF(..))`
+* Common Cell Formulas
+  * `LEN`, `UPPER/LOWER`, `LEFT/RIGHT`, `SUBSTITUTE`
+  * `SUM`, `AVERAGE`, `STDEV`, `MAX`, `MIN`, `RANK`, `COUNTIF`
 
 # Day 3
 * `IF (condition, true, false)`
