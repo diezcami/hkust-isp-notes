@@ -58,4 +58,9 @@ Else
     Range("D4").Value = "Cell A4 is less than 3!"
 End If
 ```
+* **Quitting an Application**
+``` vba
+Application.DisplayAlerts = False
+Application.Quit
+```
 
