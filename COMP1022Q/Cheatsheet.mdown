@@ -9,7 +9,7 @@
 * `HLOOKUP (lookup_value, table_array[$$$], row_index_num, [approximate?])`
 * Approximate Matching: Entries must be sorted in **Ascending Order**
 * Looking up a table from another sheet: `Sheet_Name!A1:B2`
-* ISNA(), ISERROR()
+* ISNA(), ISERROR(): Cite Examples Later
 
 # Day 4
 * **Conditional Formatting**
