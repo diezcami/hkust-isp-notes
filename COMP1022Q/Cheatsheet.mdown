@@ -64,3 +64,8 @@ Application.DisplayAlerts = False
 Application.Quit
 ```
 
+# Day 6
+* **Range (Cell Reference)**: `Range("Cell").Value`
+* **Cells**: `Cells(Row, Col).Value`
+* **ActiveCell**: `ActiveCell.Offset(1,1)`
+* `.Select`, `.Offset(0, 0)`
