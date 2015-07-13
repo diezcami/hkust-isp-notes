@@ -178,8 +178,24 @@ Approximately 70% of information extracted from the Slides
   * Twittervision: Twitter, Google Maps
   * Pubwalk: Google Maps, CitySearch
 
-
-
+## Social Networking
+* **Relevant People**
+  * **Staney Milgram**: Six Degrees of Separation
+  * **Kevin Bacon**: Trace Bacon to other actors through movies he made
+  * **Robin Dunbar**: Humans can only hold about 150 meaningul relationships
+* **Social Network**: 
+  * Network of people with a huge potential only if people belong to it and connections are visible. These connections are made visible via social networking sites, where your connections are viewable to everyone else.
+  * Online Social Networks are a crude representation of our offline network (eg. Cliques and Groups not taken into account)
+  * Bucket of Friends can lead to mixed up conversations
+  * Benefits of Circle: Formed similarly to how networks work in real life
+* **Different Types of Relationships**
+  * There are different types of relationships even within people from the same group or circle
+  * **Strong**: Do not need social networking sites to foster; dependent on amount of time, emotional intensity, intimacy, reciprocity
+  * **Weak**: Made easier to reconnect with Social Networking Sites as opposed to phone calls or meeting up
+    * Real value of collaboration and networks comes from weak relationships
+    * Form bridges to different networks as strong ties are usually in our own network
+    * Social Networks allow us to build massive networks of Weak Ties
+  * **Temporary**: Becoming common online, people with whom you have no recognized relationship  but temporarily interact with
 
 
 
