@@ -160,6 +160,31 @@ Approximately 70% of information extracted from the Slides
   * Information or Digital Goods are uniquely suited to be exchanged in a sharing economy
   * Info on the internet is a Public Good
 
-
-
 ## Mash-Ups
+* Easy, Fast Integration using open API's - Set of tools for building software, One data source, Second data source, Combined to create a new service
+* **HousingMaps**: Pau Rademacher remixed Google Maps and Craigslist, One of the world's first mash-ups
+* Old ideas prevail (Mashup "Alternatives): Web Portals, Web Information Aggregators, RSS Readers 
+  * Similarities: Info comes from different sources, Provides a unifired view
+  * Differences: Mashups create something new from existing information, New functions&insights
+  * **Restaurants Example**:
+    * Portal/Aggregator: Collects info from sources, combines to a single database, build a new website with search and recommendations
+    * Mash-ups: Collect reviews from different sites (including Web Portals), Use GMaps to locate restaurant, New UI: Browse reviews on a Map (eg. Open Rice, Yelp)
+* Easy to Use, Easy to Find
+* **Examples**:
+  * Flickr Mashups: Coverpop
+  * Amazon Mashups: Books-Like-This
+  * Mapwow: World of Warcraft
+  * Mapdango: Google Maps, Wikipedia
+  * Twittervision: Twitter, Google Maps
+  * Pubwalk: Google Maps, CitySearch
+
+
+
+
+
+
+
+
+
+
+
