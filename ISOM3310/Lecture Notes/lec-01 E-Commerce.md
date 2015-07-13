@@ -79,4 +79,12 @@ For Linio, think Amazon for Mexicans. For Zalora, think Zappos for Malaysians. F
 From its low-key offices near the center of the city, Rocket Internet has turned the usual business model for technology companies on its head, compiling a team of high-flying finance and management specialists and arming them with the money they need to mimic already successful Internet companies — applying these proven ideas in other countries, often in emerging markets.
 
 The business model stands in sharp contrast with the ethos that dominates Silicon Valley, where originality is perceived as the main currency for successful start-ups. It also has raised questions over whether Europe’s tech sector, where Rocket is a major player, can ever foster the same level of innovation that has led to a conveyor belt of successful American tech giants like Oracle, Google and Facebook.
+
+To succeed, they have had to tweak their business models for emerging markets. That involves offering cash-on-delivery services where few consumers have credit cards and running large fleets of delivery trucks where local logistics and infrastructure remain basic.
+
+“Rocket has disrupted the entire venture capital industry,”
+
+“It has groomed a lot of people in the art of going international.”
+
+But the success has also raised questions about the value of a company that essentially depends on the ideas of others. Although the Rocket-supported companies are free to copy existing tech businesses as long as they do not infringe on copyrights and trademarks, there is nothing to stop competitors from rising up and pursuing the same strategy. And some companies have already popped up to parrot Rocket’s business model.
 ```

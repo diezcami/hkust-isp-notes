@@ -161,6 +161,7 @@ Approximately 70% of information extracted from the Slides
   * Info on the internet is a Public Good
 
 ## Mash-Ups
+* A mashup is an web application that uses content from more than one source to create a single new service displayed in a single graphical interface. A picture is worth a thousand words, the main characteristics of a mashup are combination, visualization, and aggregation.
 * Easy, Fast Integration using open API's - Set of tools for building software, One data source, Second data source, Combined to create a new service
 * **HousingMaps**: Pau Rademacher remixed Google Maps and Craigslist, One of the world's first mash-ups
 * Old ideas prevail (Mashup "Alternatives): Web Portals, Web Information Aggregators, RSS Readers 
@@ -197,7 +198,9 @@ Approximately 70% of information extracted from the Slides
     * Social Networks allow us to build massive networks of Weak Ties
   * **Temporary**: Becoming common online, people with whom you have no recognized relationship  but temporarily interact with
 
-
+## Creative Commons
+  * Creative Commons (CC) is a flexible and low-cost copyright-management regime that benefit both copyright owners and licensees.  Instead of the encompasing "all right reserved" of copyright that is stifling the proliferation of innovative, CC allow creators to communicate which rights they reserve, and which rights they waive for the benefit of recipients or other creators.
+  
 
 
 
