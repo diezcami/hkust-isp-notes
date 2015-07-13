@@ -119,7 +119,47 @@ Approximately 70% of information extracted from the Slides
   * Middle (Folksonomy, Information): Systems used to organize information, Tagging (eg. Flickr, Diigo)
   * High-End (Wiki/Systems, Co-Creation): Utilize Systems and make sense of complex topics (eg. Wikipedia, Slashdot, eHow, Lostpedia, Harry Potter Wiki)
 
-
 ## Open Source
+* **Free**: Refers to freedom to copy/distribute, change and control a program
+* **Four Software Freedoms**
+  * **MEMORIZE (SIRRM)**: Study, Improve, Run, Redistribute, (Modify)
+* **The Cathedral and the Bazaar**
+  * Cathedral: Hierarchical, Top Down, Formal, Closed (eg. Taxonomy, Britannica)
+  * Bazaar: Decentralized, Bottom Up, Informal, Open (eg. Folksonomy, Wikipedia)
+* **Comparison of Software**
+  * **MEMORIZE (POFSP)**: Public Domain, Open Source, Freeware, Shareware, Proprietary Software
+  * *Deriviative Work: Mod of Original*
+* **Copyleft**: Form of licensing where an author surrenders some but not all rights under copyright law. Gist: Source Code/Modification Support must be available, Original author must be acknowledged.
+* **Open Source Depository**: Sourceforge, Github, Wordchanging, Arduino
+* **Winning Formula of Open Source**
+  * Modular Work: Divide tasks into smaller subtasks
+  * Encourage small contributions to reduce barrier of entry
+  * Allow easier reuse of earlier work
+  * It is easier to recognize the insight to solve a problem than to have the insight
+  * Convert individual insight into collective insight
+* **Similarities to Wikipedia**
+  * Encourages Communal Involvement
+  * If someone loses interest, someone else can pick up on where he left
+  * Product is good because it gets incrementally better through voluntary contribution
+  * Publish then Filter
+  * Given enough Eyeballs, All Bugs are Shallow
+* **Minimal Cost of Failure**: Enables participant to fail and build success as they go (Further encouraged by Web 2.0 technology). If a large number of users tries things, then there's a high chance of discovering something new.
+* **OpenCourseWare**: 
+  * Not a distance-learning initiative (no degrees/faculty/transcripts)
+  * Can complement a distance-learning initiative
+  * Is a collection of high quality learning materials (Planning Materials, Subject Materials, Learning Materials, Related Sources
+  * Has materials for the taking and **Transformation**
+    * Reuse: Use the work verbatim
+    * Rework: Alter or transform the work to meet needs
+    * Remix: Combine verbatim or reworked work with other works to better meet needs
+    * Redistribute: Share verbatim, reworked or remixed work with others
+* **Motivations of the Sharing Economy**
+  * **MEMORIZE (RRSN)**: Reciprocity, Reputation, Sense of Efficacy, Need
+* **Digital + Public Goods**
+  * **Pure Indivisibility**: Consuming a product does not reduce amount available to others
+  * Information or Digital Goods are uniquely suited to be exchanged in a sharing economy
+  * Info on the internet is a Public Good
+
+
 
 ## Mash-Ups
