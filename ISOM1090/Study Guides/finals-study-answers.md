@@ -105,7 +105,11 @@
 
 ## Does the Internet make you dumber?
 * **Underlying reasons used by the author**
-  * 
+  * We are turning into shallow and superficial thinkers due to the Internet's constant distractions and interruptions.
+    * People comprehend and understand less of what they consume due to distractions.
+  * **Division of Attention**: What digital natives are used to. Thinking is less rigorous and more automatic. This effect does not go away even after turning off our computers and cellphones.
+  * **State of Perpetual Locomotion**: Compromising our capacity to engage in quieter, attentive modes of thought that underpin contemplation, reflection and introspection.
+  * **Loss of Mental Discipline**
 
 ## Open Source Everywhere
 * **Reasons for the rise of open source**
@@ -115,11 +119,27 @@
 
 ## In Digital Age, Advancing a Flexible Copyright System
 * **Why do artists prefer a different approach to copyright?**
+  * CC allows creators to copy, remix and sample content as long as the original creator is credited. This allows people to be more creative without being restricted by the law.
+  * Moving away from a maximalist position where anyone can be creative without taking away rights.
+  * CC is not perfect but it gives artists added control and reduces legal licensing costs.
 
 ## Stabilization won't save us
 * **Pros and Cons of Centralization**
+  * **Cons**
+    * Deficit Prone - tend to be gamed by large corporations which increases their size to get bailed (moral hazard)
+    * Large companies are too big to fail
 * **Pros and Cons of Decentralization**
+  * **Pros**: Premise - we cannot stop making mistakes, so make sure impact is limited and localized and useful in our long term prosperity and growth
+    * Errors are smaller by nature - if one sector becomes bankrupt, the whole system would not be destabilized.
+    * Problems can be solved early - since problems are smaller, stakeholders are more willing to pay and solve local challenges
+    * People are taught to fail early and often, as they would not destabilize the economy as a whole
+
 
 ## How the tea party is rewriting the rule book of political organizing
 * **Pros and Cons of Centralization**
+  * Like a spider, a hierarchical system dies if you thump it on the head.
+
 * **Pros and Cons of Decentralization**
+  * **Pros**
+    * Can direct resources and adapt faster than corporations can
+    * Knowledge and power are distributed throughout the system - impervious to decapitation
