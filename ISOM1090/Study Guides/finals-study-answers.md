@@ -92,10 +92,20 @@
 
 ## Does the Internet make you smarter?
 * **What are the author's arguments on why critics are wrong?**
+  * Every increase in freedom to create/consume media alarms people accustomed to restrictions of the old system.
+  * *Recent past was a glorious and irreplaceable "golden age" of intellectual attainment*
+    * The past was not as rosy as they describe. The internet actually restores reading and writing as central activities in our culture.
+  * *Present is characterized by sillty stuff and not noble experiments*
+    * We should not be looking at the "clutter" of dumb stuff lying around, but for the good ideas that will survive into the future (eg. Open Source Software).
+  * *Our generation of young people will fail to invent cultural norms for the Internet as the 17th century did for print culture*
+    * It is our misfortune to live through the largest expansion in expressive capability in human history, because of the sheer abundance.
 * **Why does he believe the Internet makes us smarter?**
+  * Using the internet, we built new norms around newly abundant and contemporary culture, eg. Peer Review through Wikipedia, Open Source Software, Searches as giant distributed efforts.
+  * Ushadidi, PatientsLikeMe
 
 ## Does the Internet make you dumber?
 * **Underlying reasons used by the author**
+  * 
 
 ## Open Source Everywhere
 * **Reasons for the rise of open source**
