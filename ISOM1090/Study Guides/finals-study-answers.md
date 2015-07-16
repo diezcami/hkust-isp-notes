@@ -11,72 +11,119 @@
 ## Web 2.0
 * **Meme Map of Web 2.0**
   * **MEMORIZE (WUSP DC)**: Web as a platform, User Generated Content, Services not Packages, Perpetual Beta, Decentralization, Collaboration
-* **Foundation Attributes**
+    * WAP refers to the web being used as a platform as opposed to the desktop, SNP refers to the applications being available on the web as opposed to downloadable software, Perpetual Beta refers to Web 2.0 being constantly in progress or in a state of growth, Viral Marketing refers to increasing brand awareness through users instead of advertisements, Decentralisation refers to content not coming from a centralised authority, Collaboration&User Generated Content refers to users contributing and working together to produce content
+* **Experience Attributes**
   * **MEMORIZE (CRED)**: Co-Creation, Remixability, Emergent System, Decentralization
+    * Experience attributes create unique services not found in Web 1.0. Co-creation refers to users participating in generating content, Remixability refers to the tailoring of experiences using multiple services, Emergent Systems refers to the value of content at the lowest level to make up the overall value of a system, and Decentralisation refers to the content not coming from a centralised authority.
 * **Principles of Wikinomics**
   * **MEMORIZE (SOP)**: Sharing, Openness, Peering
+    * Sharing refers to expanding markets to create new opportunities, Openness refers to the transparency and easy of access of information, and Peering refers to the horizontal (non-hierarchical), eligalitarian system/atmosphere.
 
 ## Social Media
-* **Define Egalitarian**
+* **Define Egalitarian**: Equality in fundamental worth or social status
 * **Differences between Social and Traditional Media**
+  * Traditional Media: Passive audience, requires resources to broadcast, requires specialized skills and training, one to many
+  * Social Media: Active Audience, Inexpensive and accessible, open to anyone, many to many
 * **Ingredients of Social Media**
-  * **MEMORIZE (PTD CC)**: Participation, Transparency, Democratization, Connectedness, Community
+  * **MEMORIZE (DPT CCC)**: Democratization, Participation, Transparency, Connectedness, Community, Conversation
+    * Democratization refers to shifting power from editors, and increasing user autonomy and diversity of opinion. Participation is needed in a democracy, and everybody is encouraged to give feedback. Transparency refers to the openness of information. Connectedness refers to people being connected to other people and their content. Community refers to common interests and fostering the sharing of opinions to grow closer. Conversation refers to how social media is not a mere monologue. 
+  * **Types of Intelligence from User Generated Content**
+  * Implicit: Unstructured formats - blog posts, forum posts
+  * Explicit: Structured formats - reviews, tags, votes
+  * Derived: Intelligent Search, Aggregated Data
 
 ## Blog
-* **Blogosphere**
-* **Mainstream Media vs Blog**
-* **Permalink**
-* **Twitter**
+* **Blogosphere**: Blogs considered collectively with their writers and readers as a distinct online network
+* **Mainstream Media vs Blog**: As the Blogosphere grows, the line between MM and Blogs become less clear. Larger blogs take characteristics of mainstream sites, while mainstream sites also incorporate formats from the blog.
+* **Permalink**: The actual link to a blog post
+* **Twitter**: A platform for microblogging, providing real time information from real people. It provides a network of followers, a network of followers of followers etc in under 140 characters.
 * **Is Blog Dead?**
+  * Functions of blogs are now handled by blog-like disparate media forms (eg. Reddit, Tumblr, Instagram, Snapchat). People create personal content and share them on these platforms.
 * **Subject Matter of the following blogs/magazines:**
   * Huffington Post: Regular news similar to what a newspaper would have. The headline resembles a newspaper, but the rest of the page contains featured blog posts mixed with news articles.
   * Boingboing: Common themes include technology, intellectual property, science fiction, futurism etc (geek stuff). It has content that can be seen in a newspaper's technology section
   * Gawker: Sensationalist posts and gossip more so than news
   * Gizmodo: Tech Industry and Technology in general
-* **Types of Intelligence from User Generated Content**
-  * Implicit: Unstructured formats - blog posts, forum posts
-  * Explicit: Structured formats - reviews, tags, votes
-  * Derived: Intelligent Search, Aggregated Data
 
 ## Social Networking
-* **Six Degrees of Separation**
+* **Six Degrees of Separation**: Stanley Milgram - Theory that we are six or fewer nodes away from knowing people in a network
 * **Online Social Network vs Offline Network**
-* **Dunbar's Number**
+  * Social Networks can have a huge potential if the people belong to it and their connections are visible (solved by social networking sites)
+  * Offline Network: Farther connections are harder to establish, Clustered/ Groups
+  * Online Network: Easier to look for people, Crude Representation of our offline network (Bucket of Friends), 
+* **Dunbar's Number**: People can only hold about 150 meaningful relationships in their heads
 * **Strength of Relationships**
-  * Strong
-  * Weak
-  * Temporary
+  * Strong: Tend to be inside our own network, will remain regardless of the presence of social media
+  * Weak: Made easier to connect with using Social Networks, Form Bridges to different networks, Take less time to build
+  * Temporary: No recognized relationship with, just temporarily interact with 
 
 ## Wiki
-* **What is Wiki?**
-* **Benefits of Wiki**
-* **Comparison between Wiki and Blog**
+* **What is Wiki?**: Style of website consisting of a simple syntax (Edit, Save, Link) to compose and edit pages
+* **Benefits of Wiki**: Fast and easy to use, Transparent, Collaborative, Community
+* **Comparison between Wiki and Blog**:
+  * Blog: Write, Publish, Comment
+  * Wiki: Create, Publish, Comment, Converse, Edit, Collaborate, Respond, etc
+  * Wikis focus on community agreement rather than personal views of a topic (blogs)
 * **Core Rules of Wikipedia**
   * Neutral Point of View
   * Verifiability
-  * No User Generated Content
+  * No Original Research
 * **Winning Formula**
+  * Philosophy of Equipotentiality: Belief that all participants can contribute something useful (Wisdom of Crowd)
+  * Probabilistic, Parallelised: Mistakes have a higher change of being corrected than if reviewed by only one person
+  * Granular: Smallest contributions count, which make the barrier of participation very low
+  * Shared Ownership: Absence of editors means contributors feel immediately responsible for projects
+* **Spectrum of Lightweight to Heavyweight Collaboration**
+  * Lightweight (Cognition, Voting): Counting Votes (eg. Reddit, Estimating Amounts, PageRank or Hub/Authority Algorithms)
+  * Middle (Folksonomy, Information): Systems used to organize information, Tagging (eg. Flickr, Diigo)
+  * High-End (Wiki/Systems, Co-Creation): Utilize Systems and make sense of complex topics (eg. Wikipedia, Slashdot, eHow, Lostpedia, Harry Potter Wiki)
 
 ## Open Source
-* **Spectrum of Lightweight to Heavyweight Collaboration**
 * **Comparison of software in terms of freedom to modify, etc**
 * **LAMP**: Linux, Apache, MySQL, PhP/Python/Perl
 * **The Cathedral and the Bazaar**
+  * Cathedral: Hierarchical, Top Down, Formal, Closed (eg. Taxonomy, Britannica)
+  * Bazaar: Decentralized, Bottom Up, Informal, Open (eg. Folksonomy, Wikipedia)
 * **Copyleft and how it applied to software**
+  * Form of licensing where an author surrenders some but not all rights under copyright law. Gist: Source Code/Modification Support must be available, Original author must be acknowledged.
 * **Similarity between Wikipedia and Open Source**
-  * **Emergent System Characteristics**:
-* **Open Courseware**
-* **The motivation in sharing economy**
-  * **What is Public Good?**
+  * **Emergent System Characteristics**: Each article is better than the contribution of each individual
+  * Encourages Communal Involvement
+  * Improved project maintanability (successors)
+  * Gets incrementally better through voluntary contribution
+  * Publish then filter
+  * Given enough eyeballs, all bugs are shallow
+* **Open Courseware**: Is a collection of high quality learning materials (Planning Materials, Subject Materials, Learning Materials, Related Sources), has materials for Transformation (Rework, Remix, Redistribute, Reuse)
+* **The motivation in sharing economy**: Reciprocity, Reputation, Sense of Efficacy, Need
+* **What is Public Good?**
+  * **Pure Indivisibility**: Consuming a product does not reduce amount available to others
+  * Information or Digital Goods are uniquely suited to be exchanged in a sharing economy
+  * Info on the internet is a Public Good
 
 ## Creative Commons
 * **Role of Creative Commons in Web 2.0**
+  * Web 2.0 focuses on shared open content and collaboration. CC ensures that people can use and share intelligence without the repurcussions of the law, and grants them the permission ahead to copy/distribute, perform, build upon and remix 
 * **Difference between human and lawyer readable codes**
+  * Human readable: Summary of the license and what you can/cannot do with it; user friendly interface to actual license
+  * Lawyer readable license: Actual license designed to be enforced in a court of law
 * **Four license elements of CC**
+  * Attribution: Must credit original creator
+  * Non-Commercial: Cannot be used for commercial purposes
+  * Share Alike: Modifying is okay, but must be shared with a similar license
+  * No Derivative Works: No modifying
 * **Six licenses of CC**
+  * **Attribution + CC By**: Commercial, New Versions
+  * **Attribution + Share Alike**: Commercial, Mod+Similar License
+  * **Attribution + NonDerivs**: Commercial, No Modifications
+  * **Attribution + NonCommercial** NonComm, Mod+Similar License
+  * **Attribution + NonCommercial + ShareAlike** NonComm, Same License
+  * **Attribution + NonDerivs**: NonComm, NonMod
 
 ## Mashups
 ** **What are Mashups and their purpose?**
+  * A web application that uses content from more than one source to create a single new service displayed in a single graphical interface. A picture is worth a thousand words, the main characteristics of a mashup are combination, visualization, and aggregation.
+  * Their purpose lies in using information and delivering content better for users
+  * Eg. Coverpop, Books-Like-This, Mapwow, Mapdango, Twittervision, Pubwalk
 
 # Readings
 

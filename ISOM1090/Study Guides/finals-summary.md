@@ -100,7 +100,7 @@ Approximately 70% of information extracted from the Slides
 * **Winning Formula of Wikipedia**
   * **MEMORIZE (PPGS)**: Philosophy of Equipotentiality, Probabilistic/Parallelised, Granular, Shared Ownership
     * Philosophy of Equipotentiality: All participants are equally able to contribute something useful (Wisdom of Crowd: Nobody knows Everything, Everyone knows Something)
-    * Probabilistic, Parallelised: Mistakes and Inaccuracies have a higher chance of being corrected if edited by a single person.
+    * Probabilistic, Parallelised: Mistakes and Inaccuracies have a higher chance of being corrected than if edited by a single person.
     * Granular: You can make very minor edits, which means there are very low barriers to participation
     * Shared Ownership: Contributors feel immediately responsible for the overall project
   * **Results (MEMORIZE: BARGS)**:
