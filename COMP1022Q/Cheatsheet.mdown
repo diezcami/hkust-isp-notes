@@ -1,30 +1,42 @@
-# Day 2
-* `COUNTIF (table_range, criteria)`
+# Day 2: COUNTIF, String and Number Manipulation
+* `= COUNTIF(table_range, criteria)`
     * Count number of `criteria` occurences in `table_range`
-    * To count non-occurences, use `NOT(COUNTIF(..))`
-* Common Cell Formulas
-  * `LEN`, `UPPER/LOWER`, `LEFT/RIGHT`, `SUBSTITUTE`
-  * `SUM`, `AVERAGE`, `STDEV`, `MAX`, `MIN`, `RANK`, `COUNTIF`
+    * To count non-occurences, use `= ROW(B3) * COLUMN(B3) - COUNTIF(A1:B3, "a")`
+    * To see if it's there at all, use `= NOT(COUNTIF(A1:B3, "a"))`
+* Common String Formulas
+  * `LEN(string)`
+  * `UPPER/LOWER(string)`
+  * `LEFT/RIGHT(string, num_letters_to_keep)`
+  * `SUBSTITUTE(whole_string, old_string, new_string, [instance num])`
+* Common Numerical Formulas
+  * `RANK(num, range_of_nums)`
+  * `SUM`, `AVERAGE`, `STDEV`, `MAX`, `MIN`
+  * Usual Parameter: `(range, num, ...)`
 
-# Day 3
+* Looking up a table from another sheet: `Sheet_Name!A1:B2`, `Sheet_Name!A:A`
+* Looking up a table column in another cell of the same table: `[Name]`
+* Selecting a whole column: `C:C`
+
+
+# Day 3: If Clauses, Lookups, Mod, Error Handling
 * `IF (condition, true, false)`
-* `VLOOKUP (lookup_value, table_array[$$$], col_index_num, [approximate?])`
-  * eg. VLOOKUP (B, A15:B19, 2): Look up `B` in the table `A15:B19` (make it absolute though), and return the corresponding value in the 2nd column.
-* `HLOOKUP (lookup_value, table_array[$$$], row_index_num, [approximate?])`
-* Approximate Matching: Entries must be sorted in **Ascending Order**
-* Looking up a table from another sheet: `Sheet_Name!A1:B2`
+* `VLOOKUP (lookup_value, table_array[$$$], col_index_num, [use_approximation?])`
+* `HLOOKUP (lookup_value, table_array[$$$], row_index_num, [use_approximation?])`
+  * eg. VLOOKUP (B, A15:B19, 2): Look up `B` in the table `A15:B19` (make it absolute though), and return the corresponding value in the 2nd column (starting from 1).
+  * Approximate Matching: Entries must be sorted in **Ascending Order**
 * `MOD(A,B)`
   * 1960 is the year of the rat, so `MOD(Year - 1960, 12) + 1`
-* Error Handling:
+* **Error Handling**:
   * `ISNA()`: Used to detect errors with lookup functions
     * eg. `IF(ISNA(VLOOKUP(..)), "-", VLOOKUP(...))`
   * `ISERROR`: Used for general errors
     * eg. `IF(ISERROR(B4 * 2.2), "Please enter a valid number", B4 * 2.2)`
 
-# Day 4
+# Day 4: Conditional Formatting, Basic VBA
 * **Conditional Formatting**
   * Select cells that contain..
   * Use boolean formula to determine which cells to format
+    * eg. 
     * Relative/Absolute referencing applies
 * **Basic VBA**
   * Subroutine Signature: `Private Sub Event()`
@@ -33,7 +45,7 @@
     * `Change`: Occurs when something changes in a cell
     * `SelectionChange`: Occurs when the selection changes
 
-# Day 5
+# Day 5: Data Types, Control Flow
 * Example of Breaking Lines:
 ``` vba
 Sub Hello()
@@ -46,7 +58,7 @@ End Sub
 * **Autoplay Macros**: `Sub Workbook_Open()`
 * **Output (MsgBox)**: `MsgBox message_string, [icon], [title_string]`
     * Icons: vbDefaultButton1, vbExclamation, vbCritical, vbInformation, vbQuestion
-* **Input (InputBox)**: `InputBox (message_string, [title_string], [default_field_text])`
+* **Input (InputBox)**: `InputBox (message_string, [title_string], [default_field_string])`
 * **Referencing a Cell**: `Range("A1").Value`
 * **Control Flow**
 ``` vba
@@ -64,8 +76,59 @@ Application.DisplayAlerts = False
 Application.Quit
 ```
 
-# Day 6
-* **Range (Cell Reference)**: `Range("Cell").Value`
-* **Cells**: `Cells(Row, Col).Value`
-* **ActiveCell**: `ActiveCell.Offset(1,1)`
+# Day 6: Loops
+* **Range (Cell Reference)**: `Range("CellName/ID").Value`
+* **Cells**: `Cells(Row_Num, Col_Num["Letter"]).Value`
+* **ActiveCell**: `ActiveCell.Offset(Y_Shift, X_Shift)`
 * `.Select`, `.Offset(0, 0)`
+* **While Loops**
+``` vba
+While ____
+  Statements
+Wend
+```
+* **Do-While Loops (Same as While Loops)**
+``` vba
+Do While ____ And ____
+  Statements
+Loop
+```
+
+* **Do-While Loops (Real**)
+``` vba
+Do
+  Statements
+Loop While ____
+```
+
+# Day 7: For Loops, Coordinate System
+* **For Loops**
+``` vba
+For Num = 1 To 5
+  Stuff
+  Exit For 'Break
+Next Num
+```
+* **Double For Loop**
+``` vba
+Dim i As Integer, j As Integer
+
+For i = 1 To 6
+    For j = 1 To 2
+        Cells(i, j).Value = 100
+    Next j
+Next i
+```
+* **Coordinate System**: (x.width, y.height)
+  * `ActiveSheet.Shapes("HappyFace").Left = 50`
+  * `ActiveSheet.Shapes("HappyFace").Top = 50`
+* `ActiveSheet.Shapes.AddShape Shape, X, Y, _
+* **Printing a Variable**: `MsgBox "I'm " & Age & " years old!"
+
+
+# Others
+* **MTR and Taxi Fare**
+  * Fare Calculation:
+    ``` vba
+    =IF(B15<=0,0,IF(B15<=2000,20,IF(B15<=9000,CEILING((B15-2000)/200,1)*1.5+20,CEILING((B15-9000)/200,1)*1+72.5)))
+    ```
