@@ -29,14 +29,14 @@
 * **Twitter**
 * **Is Blog Dead?**
 * **Subject Matter of the following blogs/magazines:**
-  * Huffington Post:
-  * Boingboing:
-  * Gawker:
-  * Gizmodo:
+  * Huffington Post: Regular news similar to what a newspaper would have. The headline resembles a newspaper, but the rest of the page contains featured blog posts mixed with news articles.
+  * Boingboing: Common themes include technology, intellectual property, science fiction, futurism etc (geek stuff). It has content that can be seen in a newspaper's technology section
+  * Gawker: Sensationalist posts and gossip more so than news
+  * Gizmodo: Tech Industry and Technology in general
 * **Types of Intelligence from User Generated Content**
-  * Implicit:
-  * Explicit:
-  * Derived:
+  * Implicit: Unstructured formats - blog posts, forum posts
+  * Explicit: Structured formats - reviews, tags, votes
+  * Derived: Intelligent Search, Aggregated Data
 
 ## Social Networking
 * **Six Degrees of Separation**
@@ -113,9 +113,18 @@
 
 ## Open Source Everywhere
 * **Reasons for the rise of open source**
+  * The rise of the internet - open source's great enabler and efficient communication tool that makes massively decentralized projects possible
+  * The excesses of intellectual property (copyright) - open source's greatest nemesis: a legal regime that was so restrictive that thousands of professionals were desperate to find new ways to create (alternative to the status quo, since current methods are not fast/ambitious/creative enough)
 * **Story of Wikipedia**
+  * Nupedia's closed source approach failed miserably => Wikipedia's open source approach won
 * **Why people contribute to social media and open source**
+  * The participation in making the world what we want and what we think it should be (Greater Good, Altruism)
+  * Compulsiveness
+  * Applying professional knowledge to a broad audience (Egotism)
 * **Ideals of Open Source**
+  * **Share the Goal**: Recognize the same need and agree on how to meet it
+  * **Share the Work**: Break projects down into smaller tasks and distribute to volunteers
+  * **Share the Result**: Let code be available for anyone to tweak and improve
 
 ## In Digital Age, Advancing a Flexible Copyright System
 * **Why do artists prefer a different approach to copyright?**
@@ -134,11 +143,10 @@
     * Problems can be solved early - since problems are smaller, stakeholders are more willing to pay and solve local challenges
     * People are taught to fail early and often, as they would not destabilize the economy as a whole
 
-
 ## How the tea party is rewriting the rule book of political organizing
 * **Pros and Cons of Centralization**
-  * Like a spider, a hierarchical system dies if you thump it on the head.
-
+  * **Cons**
+    * Like a spider, a hierarchical system dies if you thump it on the head.
 * **Pros and Cons of Decentralization**
   * **Pros**
     * Can direct resources and adapt faster than corporations can

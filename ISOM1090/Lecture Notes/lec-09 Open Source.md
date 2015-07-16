@@ -5,6 +5,7 @@ Read for Final
 http://archive.wired.com/wired/archive/11.11/opensource.html?pg=2&topic=&topic_set=
 ```
 If the ideas behind it are so familiar and simple, why has open source only now become such a powerful force? Two reasons: the rise of the Internet and the excesses of intellectual property (copyright). The Internet is open source's great enabler, the communications tool that makes massive decentralized projects possible. Intellectual property, on the other hand, is open source's nemesis: a legal regime that has become so stifling and restrictive that thousands of free-thinking programmers, scientists, designers, engineers, and scholars are desperate to find new ways to create.
+
 We are at a convergent moment, when a philosophy, a strategy, and a technology have aligned to unleash great innovation. Open source is powerful because it's an alternative to the status quo, another way to produce things or solve problems. And in many cases, it's a better way. Better because current methods are not fast enough, not ambitious enough, or don't take advantage of our collective creative potential.
 
 So what motivates Wikipedia contributors? Pretty much the same things behind any open source project: a dash of altruism, a dose of obsessive compulsiveness, and a good chunk of egotism. It lets users have a hand not just in shaping the debate, but in designing the product. Some are genuinely motivated by the greater good, or find it satisfying to apply their professional knowledge to a broader audience, pro-bono style. And some get to prove how smart they are.
